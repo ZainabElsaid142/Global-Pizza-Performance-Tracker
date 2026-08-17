@@ -1,0 +1,47 @@
+{
+    "name": "Midnight & Electric",
+    "dataColors": [
+        "#0EA5E9",
+        "#8B5CF6",
+        "#10B981",
+        "#F97316",
+        "#0F172A",
+        "#cbd5e1"
+    ],
+    "background": "#F4F5F7",
+    "foreground": "#0F172A",
+    "tableAccent": "#0EA5E9",
+    "visualStyles": {
+        "*": {
+            "*": {
+                "general": [
+                    {
+                        "responsive": true
+                    }
+                ],
+                "title": [
+                    {
+                        "fontSize": 14,
+                        "fontColor": {
+                            "solid": {
+                                "color": "#0F172A"
+                            }
+                        },
+                        "bold": true
+                    }
+                ],
+                "background": [
+                    {
+                        "show": true,
+                        "color": {
+                            "solid": {
+                                "color": "#FFFFFF"
+                            }
+                        },
+                        "transparency": 0
+                    }
+                ]
+            }
+        }
+    }
+}
